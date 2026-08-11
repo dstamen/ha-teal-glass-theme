@@ -1,4 +1,5 @@
 teal_glass:
+  font-family: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
   modes:
     dark:
       primary-color: "#2dd4bf"
