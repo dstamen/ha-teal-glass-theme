@@ -3,6 +3,12 @@ teal_glass:
   ha-font-family-body: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
   ha-font-family-heading: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
   ha-font-family-code: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
+  mdc-typography-font-family: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
+  mdc-typography-body1-font-family: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
+  mdc-typography-body2-font-family: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
+  material-body-font-family: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
+  paper-font-body1_-_font-family: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
+  paper-font-common-base_-_font-family: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
   modes:
     dark:
       primary-color: "#22d3ee"
