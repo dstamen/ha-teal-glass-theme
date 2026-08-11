@@ -1,5 +1,8 @@
 teal_glass:
-  font-family: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
+  primary-font-family: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
+  ha-font-family-body: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
+  ha-font-family-heading: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
+  ha-font-family-code: "'JetBrains Mono', 'SF Mono', 'Roboto Mono', ui-monospace, monospace"
   modes:
     dark:
       primary-color: "#22d3ee"
